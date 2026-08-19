@@ -1,0 +1,2 @@
+-- Baseline migration. Domain tables (e.g. incidents) are added by the
+-- mentee as part of Milestone 1's "design the Incident entity" task.
